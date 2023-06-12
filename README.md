@@ -11,7 +11,7 @@
 
 Growing teams that help reduce the cognitive load of our experts working on a complex navigation software stack covering multiple languages (<img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1024px-Kotlin_Icon.svg.png?20171012085709"> <img width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/swift.svg"> <img width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg">),tools (<img width="20px" src="https://avatars.githubusercontent.com/u/15212165?s=200&v=4">  <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"> <img width="20px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4"> <img width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/jenkins.svg">).
 
-# Projects
+## Projects
 
 - 📄 [CommitMe](https://github.com/dev-build-deploy/commit-me) - Conventional Commits validator
 - ©️ [ReuseMe](https://github.com/dev-build-deploy/reuse-me) - REUSE Compliance validation
